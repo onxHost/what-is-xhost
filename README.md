@@ -1,6 +1,6 @@
 # xHost: Deploy Your Web App in Seconds
 
-> **The Ultimate 2025 Guide to Web App Deployment**
+> **The Ultimate 2026 Guide to Web App Deployment**
 > 
 > Stop wrestling with complex deployment platforms. xHost makes web hosting effortless — connect your GitHub, select your repo, and go live. No coding required.
 
